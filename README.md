@@ -29,4 +29,4 @@ Each strenght of friendship must be an integer in the range [-100,100] inclusive
 This program runs with a dynamic programming technique which uses a bitmask which size is equal to the number of students in the group. Therefore, the avarage complexity of the algorithm is O((2^Number_of_Members) * Number_of_Modules). With further analysis, one can prove
 that this problem actually has a polynomial solution using flow networks. Anyone is welcome to change the approach.
 
-Please, do not run this program for more than 16 students or more than 16 modules!
+# Please, do not run this program for more than 16 students or more than 16 modules!
