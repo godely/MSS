@@ -3,22 +3,27 @@ Stor	5		7			3		3			10
 Victor	10		10			8		5			7
 Haack	8		8			6		10 			0
 Julia 	9	 	10 			7 		5			1
-Ff		7 		3			9		2			3
+Filipe	7 		7			1		10			1
 Camila 	9		6 			10 		8			2
-Tomer	1 		5			4		3			6
+Tomer 	8 		9 			8 		8 			2
 Marlon	10 		10 			5		1 			1
-Danilo	5 		8			5		5			2
+Danilo 	10 		7 			8 		10 			8
 Ermano	3 		9			1		2			5
 Gabi	2 		10			2		1			7
-Leo		6 		6			8		10			4
+Leo 	9 		10 			5 		3 			0
 Aline	4 		7			10		4			7
 ***
-Windows 2
-Internet 2
-Word 3
-PowerPoint 3
-Excel	3
+Windows 	2
+Internet 	2
+Word 		3
+PowerPoint 	3
+Excel		3
 ***
-Victor Stor 100
-Victor Camila 100
+Marlon Tomer 0
+Haack Gabi 100
+Haack Leo 80
+Leo Gabi 100
+Leo Haack 100
+Stor Victor 100
+Tomer Marlon 0
 ***
