@@ -1,0 +1,24 @@
+		Windows	Internet	Word	PowerPoint	Excel
+Stor	5		7			3		3			10
+Victor	10		10			8		5			7
+Haack	8		8			6		10 			0
+Julia 	9	 	10 			7 		5			1
+Ff		7 		3			9		2			3
+Camila 	9		6 			10 		8			2
+Tomer	1 		5			4		3			6
+Marlon	10 		10 			5		1 			1
+Danilo	5 		8			5		5			2
+Ermano	3 		9			1		2			5
+Gabi	2 		10			2		1			7
+Leo		6 		6			8		10			4
+Aline	4 		7			10		4			7
+***
+Windows 2
+Internet 2
+Word 3
+PowerPoint 3
+Excel	3
+***
+Victor Stor 100
+Victor Camila 100
+***
