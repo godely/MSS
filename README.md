@@ -6,6 +6,7 @@ Maximizer of satisfaction scheduler. Made for PET-Informática UFPE for scheduli
 The program must run in the same folder as a file named "Capadecide.txt", which must contain the following data:
 
 <--------- Ignore this line, begin with the following line --------->
+```
 			MODULE_1	MODULE_2	...	MODULE_N
 STUDENT_1	GRADE_1_1	GRADE_1_2	...	GRADE_1_N
 STUDENT_2	GRADE_2_1	GRADE_2_2	...	GRADE_2_N
@@ -20,6 +21,7 @@ MODULE_N	SIZE_OF_MODULE_N
 STUDENT_X STUDENT_Y STRENGHT_OF_FRIENDSHIP_X_Y
 STUDENT_Z STUDENT_K STRENGHT_OF_FRIENDSHIP_Z_K
 ***
+```
 <--------- Ignore this line, entry data ends here --------->
 
 Each grade a student gives to a module must be an integer between 0 and 10. The program uses the square of the grade to maximize the efficience in the result.
